@@ -84,7 +84,6 @@ The raw dataset is intentionally excluded from this repository.
 ## Project Structure
 
 consumer_insights_analysis/
-│
 ├── notebooks/
 │   └── consumer_insights_analysis.ipynb
 │
