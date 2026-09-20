@@ -83,7 +83,6 @@ The raw dataset is intentionally excluded from this repository.
 
 ## Project Structure
 
-```text
 consumer_insights_analysis/
 │
 ├── notebooks/
@@ -97,4 +96,4 @@ consumer_insights_analysis/
 
 ## Project Goal
 
-The objective is not only to analyze transaction data, but to translate customer behavior into business insights, strategic opportunities, and decision-oriented recommendations.
+The objective is not only to analyze transaction data, but to translate customer behavior into **business insights, strategic opportunities, and decision-oriented recommendations**.
